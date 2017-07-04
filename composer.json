@@ -1,0 +1,6 @@
+{
+    "name": "user",
+    "autoload": {
+        "psr-4": {"Pure360\\": "src/Pure360"}
+    }
+}
